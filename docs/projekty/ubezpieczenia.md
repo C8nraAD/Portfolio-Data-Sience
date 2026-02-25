@@ -27,7 +27,10 @@ A modular `RecommendationEngine` evaluates the user's health profile (`UserProfi
 ### 3. Stateful UI Orchestration
 Leverages Streamlit's `session_state` to decouple user inputs from the simulation cache. This ensures the UI remains highly responsive during Plotly chart rendering and prevents redundant model inferences during state changes.# 🛡️ AI Insurance Premium Advisor: Predictive Underwriting Engine
 
-[Live Deployment](TUTAJ_WSTAW_LINK) | [Repository](TUTAJ_WSTAW_LINK)
+## 📸 System Telemetry & Output
+![Workingapp](assets/1.JPG)
+![finish](assets/2.JPG)
+
 
 ## 🎯 Architecture Overview & Business Objective
 
