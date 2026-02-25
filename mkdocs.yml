@@ -8,6 +8,6 @@ theme:
 nav:
   - Executive Summary: index.md
   - Core Architectures:
-    - Multimodal IDP (LLM ETL): projekty/ocr-pipeline.md
-    - InsurTech Pricing Engine: projekty/ubezpieczenia.md
-    - AI Half-Marathon Inference: projekty/biegacz-cloud.md
+    - Data Wrangling & Pipeline Optimization: projekty/ocr-pipeline.md
+    - Real Estate Value Estimation Model: projekty/ubezpieczenia.md
+    - Customer Behavior & Classification: projekty/biegacz-cloud.md
