@@ -1,6 +1,6 @@
 # 🏃‍♂️ AI Half-Marathon Inference Engine & Pacing Assistant
 
-[Live Deployment](https://whale-app-k2xqp.ondigitalocean.app)
+[Live Deployment](https://whale-app-k2xqp.ondigitalocean.app) [Repository](https://github.com/C8nraAD/AI-Health-Advisor)
 
 ## 🎯 System Overview & Business Objective
 An end-to-end predictive application estimating half-marathon completion times via a conversational UI. The system leverages an L2 regularized machine learning model trained on historical runner telemetry. Beyond inference, the engine generates customized, vectorized pacing profiles and integrates a monitored LLM for context-aware training recommendations.

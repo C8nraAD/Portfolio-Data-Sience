@@ -1,6 +1,6 @@
 # ⚡ Multimodal IDP Pipeline: LLM-Driven Invoice ETL
 
-[Live Deployment / Repository](URL_DO_POPRAWIENIA)
+[Live Deployment / Repository](https://github.com/C8nraAD/OCR-with-SQL)
 
 ## 🎯 Architecture Overview & Business Objective
 An Intelligent Document Processing (IDP) system engineered to automate unstructured financial data extraction (PDF/IMG) and reconcile it with internal relational systems. The pipeline replaces fragile, heuristic-based OCR with a multimodal Generative AI engine constrained by strict data schemas. This guarantees deterministic structuring of invoice data for downstream integrity checks and ERP ingestion.

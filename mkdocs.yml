@@ -8,6 +8,6 @@ theme:
 nav:
   - Executive Summary: index.md
   - Core Architectures:
-    - Data Wrangling & Pipeline Optimization: projekty/ocr-pipeline.md
+    - Intelligent Document Processing (IDP): projekty/ocr-pipeline.md
     - Real Estate Value Estimation Model: projekty/ubezpieczenia.md
     - Customer Behavior & Classification: projekty/biegacz-cloud.md
